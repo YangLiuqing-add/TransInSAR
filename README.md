@@ -17,16 +17,15 @@ TransInSAR is designed to achieve atmospheric delay suppression and surface defo
     <img src="./Figure/weight_number.jpg" style="width: 60%;"/>
 </p>
 
-Multi-level visualization of feature representations from the encoder, ViT, and decoder within varying training data proportions in the
-InSAR reconstruction model. 
+Multi-level visualization of feature representations from the encoder, ViT, and decoder within varying training data proportions in the InSAR reconstruction model. 
 
 -------------------
 
 <p align="center">
     <img src="./Figure/weight_atten.jpg" style="width: 70%;"/>
 </p>
-
 Spatial feature response analysis of the deep learning method with fully and sparse supervision.
+
 -------------------   
 ## License
     GNU General Public License, Version 3
