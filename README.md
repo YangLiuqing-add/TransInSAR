@@ -26,11 +26,6 @@ Multi-level visualization of feature representations from the encoder, ViT, and 
 </p>
 Spatial feature response analysis of the deep learning method with fully and sparse supervision.
 
--------------------   
-## License
-    GNU General Public License, Version 3
-    (http://www.gnu.org/copyleft/gpl.html)  
-  
 ------------------    
 ## Dependence Packages
 * Tensforflow-gpu: 2.10.0
