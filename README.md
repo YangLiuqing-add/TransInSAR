@@ -21,7 +21,7 @@ InSAR reconstruction model.
 
 -------------------
 <p align="center">
-    <img src="./Figure/weight_attren" style="width: 70%;"/>
+    <img src="./Figure/weight_atten" style="width: 70%;"/>
 </p>
 Spatial feature response analysis of the deep learning method with fully and sparse supervision.
 -------------------   
