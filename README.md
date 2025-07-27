@@ -10,7 +10,7 @@
 
 TransInSAR is designed to achieve atmospheric delay suppression and surface deformation reconstruction in InSAR time series, and is used to analyze the model's feature extraction mechanism at different semantic levels and its structural adaptive behaviour in transferring from synthetic to real data.
 
-![](./Figure/framework.jpg)
+![](./Figure/framework.jpeg)
 
 ## Results
 <p align="center">
