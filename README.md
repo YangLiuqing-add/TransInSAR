@@ -41,4 +41,4 @@ The synthetic dataset that is available on Google Drive ([Dataset](https://drive
 ## Contact
     If you have any suggestions or questions, please contact me:
     Liuqing Yang 
-    yanglq199301@gmail.com
+    liuqing.yang@geo.uu.se
