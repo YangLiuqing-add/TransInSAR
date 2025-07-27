@@ -27,6 +27,10 @@ Multi-level visualization of feature representations from the encoder, ViT, and 
 Spatial feature response analysis of the deep learning method with fully and sparse supervision.
 
 ------------------    
+## Dataset
+The synthetic dataset that is available on Google Drive ([Dataset]([https://drive.google.com/drive/folders/1_7krCMcTXqgov9ZiGNuIFR4buwedHjhy)).
+
+------------------    
 ## Dependence Packages
 * Tensforflow-gpu: 2.10.0
 * numpy: 1.23.5
