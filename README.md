@@ -20,7 +20,9 @@ Multi-level visualization of feature representations from the encoder, ViT, and 
 InSAR reconstruction model. 
 
 -------------------
-<img src="./Figure/weight_attren" style="width: 60%;"/>
+<p align="center">
+    <img src="./Figure/weight_attren" style="width: 70%;"/>
+</p>
 Spatial feature response analysis of the deep learning method with fully and sparse supervision.
 -------------------   
 ## License
