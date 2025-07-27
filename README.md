@@ -13,8 +13,7 @@ TransInSAR is designed to achieve atmospheric delay suppression and surface defo
 ![](./Figure/framework.jpg)
 
 ## Results
-
-![](./Figure/weight_number.jpg)
+<img src="./Figure/weight_number.jpg" style="width: 60%;"/>
 
 Multi-level visualization of feature representations from the encoder, ViT, and decoder within varying training data proportions in the
 InSAR reconstruction model. 
