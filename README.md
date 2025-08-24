@@ -35,7 +35,6 @@ The synthetic dataset that is available on Google Drive ([Dataset](https://drive
 * Tensforflow-gpu: 2.10.0
 * numpy: 1.23.5
 * Keras: 2.10.5
-* GPU: GeForce RTX 4090
 -------------------   
   
 ## Contact
